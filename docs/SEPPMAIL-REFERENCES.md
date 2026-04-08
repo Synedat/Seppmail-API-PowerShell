@@ -1,12 +1,15 @@
-# Official references
+# Official References
 
-Use the following vendor documentation as the primary product reference:
+    ## SEPPmail references
 
-- [API functions](https://docs.seppmail.com/en/09_ht_admin_api-functions.html)
-- [SEPPmail API docs](https://docs.seppmail.com/api)
+    - [API functions overview](https://docs.seppmail.com/en/09_ht_admin_api-functions.html)
+- [SEPPmail API reference landing page](https://docs.seppmail.com/api)
 
-## Notes
+    ## Governance and compliance references
 
-- Validate examples against your current product version.
-- Prefer official SEPPmail documentation where behaviour or parameters changed.
-- Use tenant- and customer-specific values only in private operational documentation.
+    - [ISO/IEC 27001](https://www.iso.org/standard/27001)
+- [BAIT / BaFin risk management overview](https://www.bafin.de/EN/Aufsicht/BankenFinanzdienstleister/Risikomanagement/risikomanagement_node_en.html)
+- [DORA overview](https://www.esma.europa.eu/esmas-activities/digital-finance-and-innovation/digital-operational-resilience-act-dora)
+- [TISAX overview](https://www.enx.com/tisax/)
+- [NIS2 summary](https://eur-lex.europa.eu/EN/legal-content/summary/cybersecurity-of-network-and-information-systems.html)
+- [Synedat Group GmbH](https://www.synedat.com/)
