@@ -154,3 +154,112 @@ Contributions are welcome when they improve usefulness, safety, reviewability or
 ## Findability and discoverability
 
 This repository intentionally uses searchable, implementation-oriented wording around SEPPmail, mail security, Exchange Online, Microsoft 365, Azure, operations, automation, API integration, Terraform, Bicep, PowerShell and governance-aware delivery so that architects, engineers and project teams can find relevant starting points faster.
+
+## Documentation and community
+
+- `docs/index.md` - GitHub Pages starter landing page
+- `docs/DEMO-SCENARIOS.md` - ready-to-use demo and workshop ideas
+- `docs/COMMUNITY-AND-SOCIAL.md` - starter copy for posts, announcements and repo sharing
+- `docs/RELEASE-NOTES.md` - compact release-oriented summary
+- `wiki/Home.md` - seed content for a GitHub wiki
+- `docs/images/repo-social-card.svg` - visual header/social card asset
+- `docs/images/demo-dashboard.svg` - placeholder demo visual for screenshots and docs
+
+## Findability and consistency
+
+This repository follows a consistent Synedat public structure so that engineers can discover architecture notes, permissions guidance, compliance mappings, examples, troubleshooting content and extension ideas quickly.
+
+## Governance and community
+
+This repository includes public governance and collaboration building blocks to make reuse easier and safer:
+
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Security Disclosure](docs/SECURITY-DISCLOSURE.md)
+- [Legal and Licensing Notes](docs/LEGAL-AND-LICENSING.md)
+- [GitHub Discussions Setup](docs/GITHUB-DISCUSSIONS-SETUP.md)
+- [Maintainers and Ownership](docs/MAINTAINERS.md)
+- [Public Roadmap](docs/ROADMAP-PUBLIC.md)
+- [Landing Page Copy](docs/LANDING-PAGE-COPY.md)
+
+## Additional operational detail
+
+For a deeper public-facing operating model, also review:
+
+- [Access Matrix](docs/ACCESS-MATRIX.md)
+- [Threat Model](docs/THREAT-MODEL.md)
+- [Control Mapping](docs/CONTROL-MAPPING.md)
+- [Evidence and Audit](docs/EVIDENCE-AND-AUDIT.md)
+- [Pipelines and Quality Gates](docs/PIPELINES-AND-QUALITY-GATES.md)
+- [Visuals and Header](docs/VISUALS-AND-HEADER.md)
+
+
+![Governance overview](docs/images/governance-overview.svg)
+
+## Demo content and sample outputs
+
+This repository now includes reusable demo material so that it can be shown in workshops, customer conversations, architecture reviews and onboarding sessions without requiring a live environment.
+
+- `demo-data/sample-result.json`
+- `demo-data/sample-config.yaml`
+- `demo-data/sample-health-report.csv`
+- `docs/EXAMPLE-OUTPUTS.md`
+- `examples/demo-walkthrough.md`
+
+## Landing page and presentation structure
+
+To make the repository easier to present and easier to find, the following assets are included:
+
+- `docs/HOMEPAGE-STRUCTURE.md`
+- `docs/WORKSHOP-KIT.md`
+- `docs/RELEASE-CONTENT.md`
+- `docs/BADGE-URLS.md`
+- `docs/SCREENSHOT-PLAN.md`
+- `docs/FUNCTIONAL-EXTENSIONS-v9.md`
+- `docs/images/homepage-hero.svg`
+- `docs/images/landing-page-wireframe.svg`
+
+## Sample deliverables for this repository
+
+- module structure
+- invoke helpers
+- sample cmdlets
+- operational evidence patterns
+
+## Search and discovery hints
+
+The content of this repository is intentionally written so that it is easier to discover around these terms: seppmail powershell, mail security automation, rest module, synedat.
+
+## Synedat note
+
+Synedat Group GmbH uses a consistent public repository structure to make reusable engineering assets easier to evaluate, adapt and operate across architecture, automation, security and operational resilience topics.
+
+
+
+        ## v10 demo pages and richer sample artifacts
+
+        This repository now includes a small HTML demo page and richer sample artifacts that help present functionality without a live environment.
+
+        - `pages/index.html`
+        - `demo-data/sample-report.json`
+        - `demo-data/sample-events.ndjson`
+        - `demo-data/sample-metrics.csv`
+        - `docs/DETAILED-ARCHITECTURE-v10.md`
+        - `docs/IMPLEMENTATION-PLAYBOOK-v10.md`
+        - `docs/USE-CASE-CATALOG-v10.md`
+        - `docs/EXAMPLE-REPORTS-v10.md`
+        - `docs/PORTFOLIO-LINKS-v10.md`
+        - `docs/SEARCH-KEYWORDS-v10.md`
+        - `docs/images/homepage-hero-v10.svg`
+        - `docs/images/architecture-delivery-view.svg`
+
+        ## Suggested metrics and storyline
+
+        Use these metrics and discussion anchors in demos, release notes and workshops:
+        - Cmdlet success rate
+- Execution duration
+- Auth token refresh events
+- Export quality status
+
+        ## Synedat public portfolio angle
+
+        This repository is part of a broader Synedat portfolio that intentionally combines technical examples, architecture guidance, operations depth and governance-aware documentation so that teams can discover useful starting points faster.

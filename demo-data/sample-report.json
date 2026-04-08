@@ -1,0 +1,7 @@
+{
+  "command": "Get-SEPPmailVersion",
+  "version": "demo-1.0",
+  "status": "success",
+  "authMode": "token",
+  "evidenceId": "ps-demo-004"
+}

@@ -1,0 +1,14 @@
+environment: demo
+repository: Seppmail-API-PowerShell
+partner: SEPPmail
+maintainer: Synedat Group GmbH
+focus: PowerShell module patterns for authenticated SEPPmail API automation
+controls:
+  - ISO/IEC 27001
+  - BAIT
+  - DORA
+  - TISAX
+  - NIS2
+notes:
+  - Example configuration only
+  - Adjust permissions and network ranges before production use

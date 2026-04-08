@@ -1,0 +1,5 @@
+metric,value,unit
+Cmdlet success rate,81,demo
+Execution duration,82,demo
+Auth token refresh events,83,demo
+Export quality status,84,demo

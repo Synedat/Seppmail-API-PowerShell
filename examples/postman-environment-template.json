@@ -1,0 +1,23 @@
+{
+  "name": "Seppmail-API-PowerShell",
+  "values": [
+    {
+      "key": "baseUrl",
+      "value": "https://seppmail.example.local",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "username",
+      "value": "api-user",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "password",
+      "value": "change-me",
+      "type": "secret",
+      "enabled": true
+    }
+  ]
+}
